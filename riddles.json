@@ -1,19 +1,41 @@
 {
   "problems": [
       {
-        "question": "somethin",
-        "title": "title1",
+        "question": "How do you make the number one disappear by adding to it?",
+        "title": "Number",
         "id": 1,
-        "image": "url to image",
+        "image": "null",
         
-        "answer": "something"
+        "answer": "Add the letter 'G' and it becomes Gone"
       },
       {
-        "question": "something else",
-        "title": "title2",
+        "question": "What question can you never honestly answer yes to?",
+        "title": "Honesty",
         "id": 2,
         "image": "null",
-        "answer": "something"
+        "answer": "Are you asleep? (or dead)"
+      },
+      {
+        "question": "Can you name three consecutive days without using the words Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, or Sunday?",
+        "title": "Consecutive days",
+        "id": 3,
+        "image": "null",
+        
+        "answer": "Add the letter 'G' and it becomes Gone"
+      },
+      {
+        "question": "David's father has three sons : Snap, Crackle and _____ ?",
+        "title": "David's father",
+        "id": 4,
+        "image": "null",
+        "answer": "David"
+      },
+      {
+        "question": "What has many keys, but can't even open a single door?",
+        "title": "The keys",
+        "id": 5,
+        "image": "null",
+        "answer": "A piano"
       }
   ]
 }
